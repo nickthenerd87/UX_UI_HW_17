@@ -1,17 +1,17 @@
 body {background-color: #4b4b4b;}
 
-inline-block {
+.inline-block {
     display: inline-block;
     vertical-align: top;
 }
 
-logo{
+.logo{
     width: 23%;
     padding: 1%;
     text-align: center ;
 }
 
-navagation{
+.navagation {
     background-color: #B3C138;
     width: 73%;
     padding: 1%;
@@ -22,7 +22,7 @@ ul{
     margin-left: auto;
 }
 
-heroimg {
+.heroimg {
     height: 600px;
     padding: 25px;
 }
